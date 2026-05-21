@@ -1,0 +1,21 @@
+name,email,joined_date,country,bet_status
+Alice Chen,alice@example.com,2026-01-05,Singapore,completed
+Bob Smith,bob@example.com,2026-01-08,Australia,active
+Charlie Wang,charlie@example.com,2026-01-10,China,completed
+Diana Lim,diana@example.com,2026-01-12,Singapore,active
+Edward Liu,edward@example.com,2026-01-15,Malaysia,completed
+Fiona Zhang,fiona@example.com,2026-01-18,China,active
+George Tan,george@example.com,2026-01-20,Australia,completed
+Hannah Wu,hannah@example.com,2026-01-22,Singapore,completed
+Ivan Lee,ivan@example.com,2026-02-01,Malaysia,active
+Julia Brown,julia@example.com,2026-02-03,Australia,completed
+Kevin Ng,kevin@example.com,2026-02-05,China,active
+Laura Kim,laura@example.com,2026-02-08,Singapore,completed
+Michael Ho,michael@example.com,2026-02-10,Australia,active
+Nancy Zhao,nancy@example.com,2026-02-12,China,completed
+Oscar Chua,oscar@example.com,2026-02-15,Malaysia,completed
+Penny Sun,penny@example.com,2026-02-18,Singapore,active
+Quinn Li,quinn@example.com,2026-02-20,Australia,completed
+Rachel Yeo,rachel@example.com,2026-03-01,Malaysia,active
+Samuel Goh,samuel@example.com,2026-03-05,China,completed
+Tina Ong,tina@example.com,2026-03-08,Singapore,completed

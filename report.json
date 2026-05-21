@@ -1,0 +1,10 @@
+{
+    "total": 20,
+    "by_country": {
+        "Singapore": 6,
+        "Australia": 5,
+        "China": 5,
+        "Malaysia": 4
+    },
+    "completion_rate": "60.0%"
+}
